@@ -1,9 +1,14 @@
 # ABOUT-ME
-Hi!, my name is Leslie.I aspire to be a software developer and my main interests lie in Java programming language.
+Hi!, my name is Leslie.I aspire to become an android application developer and my main interests lie in Java programming language.
 In the past two years at Babcock university i have learn the basics of programming language like C Programming language, C.PP, .NET and java. 
 As well as standard markup language HTML, CSS and JavaScript.
 I am currently improving my java development skills with W3schools and working on my web development skills with FreeCodeCamp as well as the ADA mentorship program by Enugu Tech Hub.
 I hvae finish a finish an executive briefing course on Cyber Security om PluralSight and am currently on another course of web development.
+
+My interests lie in;
+- Mobile development
+- Technical writing
+- Project management
 
 April,2022 - May,2022. I join a program called Global Enterprise Experience to get the ropes on whats it is like to work with a tem on a project. 
 At first it felt like i could not get along or in better terms be carried along , I was really confused but eventually i learn that if i do not 
